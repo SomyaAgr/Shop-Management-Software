@@ -1,5 +1,5 @@
 # Shop-Management-Software
-This software is for clothing shopkepper where they can maintain inventory and can use for billing as well 
+This software is for clothing shopkeeper where they can maintain inventory and can use for billing as well 
 
 Steps to access 
 1) Download jdk, netbeans, MYSQL.
